@@ -1,12 +1,13 @@
 # Hi, I'm Aus Vohra 👋
 
-## Senior Full Stack Engineer | Python | AI | FastAPI | React | AWS
+# Senior Full Stack Engineer | Python | AI | FastAPI | React | AWS
 
-Building production AI applications, scalable backend systems, and cloud native solutions.
+Building scalable software, AI powered applications, and cloud native backend systems.
 
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,django,flask,react,nextjs,nodejs,ts,js,postgres,mongodb,redis,docker,kubernetes,aws,terraform,git,github,vscode)](https://skillicons.dev)
+I have 7+ years of experience developing production applications using Python, FastAPI, Django, React.js, Node.js, and AWS. My recent work focuses on LLM applications, AI Agents, Retrieval Augmented Generation (RAG), and distributed backend systems.
 
 ---
+
 
 ## 🚀 About Me
 
