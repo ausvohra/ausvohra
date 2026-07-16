@@ -28,181 +28,21 @@ I have 7+ years of experience developing production applications using Python, F
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
-### Backend
+Backend: Python, FastAPI, Django, Flask, Node.js, Express.js, NestJS, REST APIs, GraphQL, WebSockets, Microservices.
 
-Python
+Frontend: React.js, Next.js, JavaScript, TypeScript, Redux, Tailwind CSS, HTML5, CSS3.
 
-FastAPI
+AI & LLM: OpenAI, Claude, Gemini, LangChain, LangGraph, LlamaIndex, CrewAI, RAG, AI Agents, Prompt Engineering, Function Calling.
 
-Django
+Databases: PostgreSQL, MongoDB, MySQL, Redis, DynamoDB, Firebase.
 
-Flask
+Cloud & DevOps: AWS, Docker, Kubernetes, Terraform, GitHub Actions, Jenkins, CI/CD.
 
-Node.js
+Data Engineering: Airflow, Celery, Pandas, NumPy.
 
-Express.js
-
-NestJS
-
-REST APIs
-
-GraphQL
-
-WebSockets
-
-Microservices
-
----
-
-### Frontend
-
-React.js
-
-Next.js
-
-TypeScript
-
-JavaScript
-
-Redux
-
-Tailwind CSS
-
-HTML5
-
-CSS3
-
----
-
-### AI & LLM
-
-OpenAI GPT-4o
-
-Anthropic Claude
-
-Google Gemini
-
-LangChain
-
-LangGraph
-
-LlamaIndex
-
-CrewAI
-
-AutoGen
-
-Prompt Engineering
-
-AI Agents
-
-RAG Pipelines
-
-Function Calling
-
-Semantic Search
-
-Vector Embeddings
-
----
-
-### Vector Databases
-
-Pinecone
-
-Weaviate
-
-Chroma
-
-pgvector
-
-Elasticsearch
-
----
-
-### Databases
-
-PostgreSQL
-
-MongoDB
-
-MySQL
-
-Redis
-
-DynamoDB
-
-Snowflake
-
-ClickHouse
-
-Firebase
-
----
-
-### Cloud & DevOps
-
-AWS
-
-Docker
-
-Kubernetes
-
-Terraform
-
-GitHub Actions
-
-Jenkins
-
-CI/CD
-
----
-
-## 📌 Featured Projects
-
-### 🤖 AI Knowledge Assistant
-
-Production RAG application built using FastAPI, LangChain, OpenAI, PostgreSQL, and pgvector.
-
-### 🧠 Multi Agent Automation
-
-AI agents using LangGraph, CrewAI, OpenAI Function Calling, and custom tools.
-
-### 📄 Resume Intelligence Platform
-
-Semantic resume search, vector embeddings, AI ranking, and recruiter dashboard.
-
-### 📊 Real Time Analytics Platform
-
-FastAPI microservices, Redis, PostgreSQL, Docker, AWS, and React.
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ausvohra&show_icons=true&theme=github_dark"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ausvohra&layout=compact&theme=github_dark"/>
-</p>
-
----
-
-## 🛠 Currently Learning
-
-Large Language Models
-
-Advanced RAG
-
-AI Agents
-
-System Design
-
-Distributed Systems
-
----
-
+Tools: Git, GitHub, Jira, Confluence, Cursor, GitHub Copilot.
 ## 🤝 Let's Connect
 
 📍 McKinney, Texas
