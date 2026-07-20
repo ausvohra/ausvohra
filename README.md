@@ -96,7 +96,7 @@ I enjoy solving complex engineering problems and building production ready softw
 
 📍 McKinney, Texas
 
-📧 vohrausaf@gmail.com
+📧 vohrausaf@gmail.com | ausafvohra01@gmail.com
 
 💼 LinkedIn: linkedin.com/in/ausvohra
 
